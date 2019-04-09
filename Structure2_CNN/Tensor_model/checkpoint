@@ -1,0 +1,2 @@
+model_checkpoint_path: "raw_data_CNN-5000"
+all_model_checkpoint_paths: "raw_data_CNN-5000"
